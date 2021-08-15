@@ -14,13 +14,13 @@ Each drug was labelled as either active or inactive based on the IC50 standard v
 
 Chemical properties between the two classes were compared
 
-[plot_bioactivity_class.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988939/plot_bioactivity_class.pdf)
-[plot_ic50.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988941/plot_ic50.pdf)
-[plot_LogP.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988942/plot_LogP.pdf)
-[plot_MW.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988943/plot_MW.pdf)
-[plot_MW_vs_LogP.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988944/plot_MW_vs_LogP.pdf)
-[plot_NumHAcceptors.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988945/plot_NumHAcceptors.pdf)
-[plot_NumHDonors.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988946/plot_NumHDonors.pdf)
+1. [plot_bioactivity_class.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988939/plot_bioactivity_class.pdf)
+2. [plot_ic50.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988941/plot_ic50.pdf)
+3. [plot_LogP.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988942/plot_LogP.pdf)
+4. [plot_MW.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988943/plot_MW.pdf)
+5. [plot_MW_vs_LogP.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988944/plot_MW_vs_LogP.pdf)
+6. [plot_NumHAcceptors.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988945/plot_NumHAcceptors.pdf)
+7. [plot_NumHDonors.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988946/plot_NumHDonors.pdf)
 
 ## Parts 3-6: Descriptor Calculation and Model Building
 
