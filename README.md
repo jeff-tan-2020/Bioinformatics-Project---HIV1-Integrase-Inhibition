@@ -26,6 +26,7 @@ Chemical properties between the two classes were compared
 
 PaDEL-descriptor software<a href="https://pubmed.ncbi.nlm.nih.gov/21425294/">[2]</a>. was used to calculate molecular fingerprints to input into a Random Forest regressor model. This model was compared with other ML models. 
 
-![regressor_comparison](https://user-images.githubusercontent.com/75536936/129493971-6dfc209b-f964-4149-a7e9-74a66216d9b5.jpg)
+![regressor_comparison](https://user-images.githubusercontent.com/75536936/129494061-c359bbe4-a105-4d22-b91a-5f539cd20b3e.jpg)
+
 
 
