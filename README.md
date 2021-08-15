@@ -25,5 +25,6 @@ Chemical properties between the two classes were compared
 ## Parts 3-6: Descriptor Calculation and Model Building
 
 PaDEL-descriptor software<a href="https://pubmed.ncbi.nlm.nih.gov/21425294/">[2]</a>. was used to calculate molecular fingerprints to input into a Random Forest regressor model. This model was compared with other ML models. 
-[regressor_comparison.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988948/regressor_comparison.pdf)
+![regressor_comparison](https://user-images.githubusercontent.com/75536936/129493971-6dfc209b-f964-4149-a7e9-74a66216d9b5.jpg)
+
 
