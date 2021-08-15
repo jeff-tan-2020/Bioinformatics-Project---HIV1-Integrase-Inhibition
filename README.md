@@ -4,3 +4,26 @@ This project was started based on the tutorial by Chanin Nantasenamat from his v
 
 This project focuses on the inhibition of HIV Integrase I, an enzyme in the HIV virus required for the integration of viral DNA into the host genome <a href="https://pubmed.ncbi.nlm.nih.gov/15134551/">[1]</a>. 
 
+## Part 1: Data Collection
+The data used for the project was obtained from the ChEMBL database 
+
+## Part 2: Exploratory Data Analysis
+Each drug was labelled as either active or inactive based on the IC50 standard values 
+- Drugs with less than 1000 nM IC50 labelled as active
+- Drugs with greater than 10000 nM IC50 labelled inactive
+
+Chemical properties between the two classes were compared
+
+[plot_bioactivity_class.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988939/plot_bioactivity_class.pdf)
+[plot_ic50.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988941/plot_ic50.pdf)
+[plot_LogP.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988942/plot_LogP.pdf)
+[plot_MW.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988943/plot_MW.pdf)
+[plot_MW_vs_LogP.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988944/plot_MW_vs_LogP.pdf)
+[plot_NumHAcceptors.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988945/plot_NumHAcceptors.pdf)
+[plot_NumHDonors.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988946/plot_NumHDonors.pdf)
+
+## Parts 3-6: Descriptor Calculation and Model Building
+
+PaDEL-descriptor software<a href="https://pubmed.ncbi.nlm.nih.gov/21425294/">[2]</a>. was used to calculate molecular fingerprints to input into a Random Forest regressor model. This model was compared with other ML models. 
+[regressor_comparison.pdf](https://github.com/jeff-tan-2020/Bioinformatics-Project---HIV1-Integrase-Inhibition/files/6988948/regressor_comparison.pdf)
+
